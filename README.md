@@ -45,4 +45,57 @@ A full-stack E-commerce web application built using modern web technologies. Thi
 ---
 
 ## 📁 Project Structure
+# E-Commerce Project Setup Guide
+
+## 1️⃣ Clone Repository
+
+git clone https://github.com/Bansalpatel10/ecommece.git
+
+---
+
+## 2️⃣ Go inside project folder
+
+cd ecommerce
+
+---
+
+## 3️⃣ Install Dependencies
+
+Install client dependencies:
+
+cd client
+npm install
+
+Install admin dependencies:
+
+cd ../admin
+npm install
+
+Install server dependencies:
+
+cd ../server
+npm install
+
+---
+
+## 4️⃣ Run Project
+
+Start Backend Server:
+
+cd server
+npm start
+
+Start Client (User Frontend) - open new terminal:
+
+cd client
+npm start
+
+Start Admin Panel - open new terminal:
+
+cd admin
+npm start
+
+---
+
+## Setup Complete ✅
 
